@@ -1,3 +1,4 @@
+#Pornhub
 vz-cdn2.trafficjunky.net
 m2.nsimg.net
 trafficjunky.net
@@ -26,6 +27,7 @@ ei.phncdn.com
 adtng.com
 vz-cdn2.adtng.com
 trafficfactory.biz
+#Xvideos
 vip-popki.net
 vua.cookie-master2.com
 play4ever.net
